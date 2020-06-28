@@ -1,5 +1,7 @@
 ## CSV Injection Payloads
 
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"> <img src="https://img.shields.io/github/stars/payloadbox/csv-injection-payloads?style=social"> <img src="https://img.shields.io/github/forks/payloadbox/csv-injection-payloads?style=social"> <img src="https://img.shields.io/github/repo-size/payloadbox/csv-injection-payloads"> <img src="https://img.shields.io/github/license/payloadbox/csv-injection-payloads"> <img src="https://img.shields.io/github/issues/detail/author/payloadbox/csv-injection-payloads/1">
+
 CSV Injection, also known as Formula Injection, occurs when websites embed untrusted input inside CSV files.
 
 #### Payloads :
